@@ -1,0 +1,55 @@
+
+
+
+
+					Assignment - 1         
+
+1. Why do computers understand only binary language?
+2. What is the full form of IDE?
+3. What is the difference between a text editor and a code editor?
+4. What are the steps to develop software using the C language?
+5. Explore by your own
+a. What is the latest version of C Language?
+b. Who developed C Language?
+c. What is the difference between System and Application Software?
+d. How to convert a number from a decimal number system to a binary number
+system?
+			ANSWERS:-
+
+
+
+1 ans:- Computers primarily understand and process information in binary language, which consists of only two symbols: 0 and 1. This binary system is the foundation of modern digital computing for several fundamental reasons they are 1.Electronic Hardware,2.Simplicity and Reliability,3.Ease of Implementation,4.Error Correction,5.Standardization,6.Boolean Logic,etc. 
+While computers primarily operate in binary, they can work with higher-level programming languages and data representations that abstract away the binary complexity, making it more accessible for humans to interact with computers. These higher-level languages use a combination of text, numbers, and various data structures to facilitate human-computer communication. The translation between these higher-level languages and the computer's binary language is handled by compilers and interpreters.
+
+2 ans:- IDE stands for Integrated Development Environment. It is a software application that provides a comprehensive set of tools and features for programmers and developers to write, test, and debug code efficiently. IDEs typically include a text editor for writing code, a compiler or interpreter for translating code into machine-readable instructions, debugging tools, project management features, and often integration with version control systems. IDEs are designed to streamline the software development process and make it more productive by providing a centralized environment for all the tasks involved in coding and software development.
+
+3 ans:- Text editors and code editors are software applications used for working with text-based files, including code files.
+text editor:-						code editor:-
+ 1.General Purpose					1. speacialized for coding
+ 2.minimal features					2. rich features
+ 3.lightweight and fast					3.extensiability
+
+4 ans:- 1.Requirements Analysis.
+	2.Design.
+	3.planning.
+	4.coding.
+	5.compilation.
+	6.testing.
+	7.documentation.
+	8.version control.
+	9.maintanance.
+	10.quality assurance.
+	11.user training and support.
+	12.feedback and iteration.
+
+5 (a) ans:-  the latest version of the C programming language was C18, which was formally known as C17 during development but was later renamed to C18 upon its finalization.
+  (b) ans:- Dennis Ritchie 
+  (c) ans:- System Software:- purpose:System software is designed to manage and control the hardware components 				and overall operation of the computer system., user interaction:Users typically 				do not interact directly with system software. It operates in the background, 				managing the computer's resources and facilitating the execution of application 				software, dependency:Application software relies on system software to provide 				a runtime environment and access to hardware resources. Without system 					software, application software cannot function properly, Examples:Operating 				systems like Windows, macOS, and Linux.
+	Application Software:- purpose:Application software is designed to perform specific tasks or functions 				that are useful to end-users., User Interaction:Users directly interact with 				application software to accomplish specific tasks or goals. Application 				software provides a user interface for this interaction, Dependency:Application 				software may depend on system software for certain functions and resources, but 				it is mainly developed to serve the needs and preferences of users., 					Application software may depend on system software for certain functions and 				resources, but it is mainly developed to serve the needs and preferences of 				users, Examples:Word processing software (e.g., Microsoft Word, Google 					Docs).Multimedia editing tools (e.g., Adobe Photoshop, GarageBand).Web 					browsers , Chrome, Firefox).Video games and entertainment software.
+  (d) ans:-   Let's say you want to convert the decimal number "N" to binary.
+		1.Start with the Decimal Number.
+		2.initialize Variables.
+		3.repeat division by 2.
+		4.append reminder to result.
+		5.repeat.
+		6.result.
