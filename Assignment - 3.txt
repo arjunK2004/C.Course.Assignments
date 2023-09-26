@@ -1,0 +1,45 @@
+									Assignment - 3 
+							C Language LIVE Community Classes MySirG
+
+1. What are the primitive data types in C Language?
+ans:-  int, float, double, char, boolean, complex, void.
+
+2. What kind of statements can be written outside the function body?
+ans:-   Declaration , processor directives.
+
+3. What is the size of the float type variable?
+ans:-   the float type variable is 4 bytes in size.
+
+4. What is the value of an uninitialized variable?
+ans:-   By initializing variables, you can ensure that they start with known values, and you avoid potential issues caused by reading uninitialized memory.
+
+5. What is the difference between float and double?
+ans:-   FLOAT:- 1- Its size is 4 bytes.
+		2- It may get Precision errors while dealing with large numbers.
+		3- This data type supports up to 7 digits of storage.
+
+	DOUBLE:-1- Its size is 8 bytes.
+		2-It has 15 decimal digits precision.
+		3-This data type supports up to 15 digits of storage.
+
+6. What is the full form of ASCII?
+ans:- American Standard Code for Information Interchange.
+
+7. What is the difference between a keyword and a function?
+ans:- KEYWORDS:-Keywords are reserved words in the C language that have predefined meanings and are used to represent fundamental language constructs.
+		They cannot be used as identifiers (such as variable names, function names, or user-defined types) in your program.
+		Examples of C keywords include int, float, if, while, return, for, switch, and sizeof, among others.
+		Keywords are an integral part of the C language and are used to define the structure and behavior of your program.
+      FUNCTIONS:-Functions in C are blocks of code that perform specific tasks or operations. They encapsulate a set of statements and are defined with a name, a return type, andparameters 		(if any).Functions are not reserved words; they are user-defined constructs that allow you to modularize and organize your code.You can create your own functions to perform 		custom operations or tasks in your program.Functions are invoked by their names and can accept arguments (parameters) and return values.
+
+8. Explore the use of type modifiers in C language.
+ans:- short,long,signed,unsigned.
+
+9. Can you assign a character constant in an int variable?
+ans:-   Yes, you can assign a character constant to an 'int' variable in C. When you do this, the character's ASCII value (or the encoding used by your system) will be stored in the 'int'      	variable.
+	FOR EXAMPLE:- int intValue = 'A';
+
+10. State the following statement as true or false -”Every block of code is a function”.
+ans:-   False.
+
+	Every block of code is not a function. In C programming, a block of code typically refers to a compound statement enclosed within curly braces '{}'. While functions in C are also 	defined using curly braces and contain blocks of code, not every block of code is a function.
