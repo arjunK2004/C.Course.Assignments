@@ -1,0 +1,45 @@
+									Assignment - 2
+							 C Language LIVE Community Classes MySirG
+
+1. Which of the following are real constants?
+   3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+and:-   3: This is a real constant, representing the number 3.
+	4.5: This is a real constant, representing the number 4.5.
+	3.0: This is also a real constant, representing the number 3.0. It's just another way to write the integer 3 as a floating-point number.
+	-25: This is a real constant, representing the number -25.
+	-0.0: This is a real constant, representing the number 0.0 with a negative sign. It's equivalent to 0.
+
+2. Which of the following are not keywords in C Language?
+   auto, dynamic, static, typedef, define, enum, is, default, this, super
+ans:-   dynamic
+	define
+	is
+	default
+	this
+	super  above are not part of the standard C language keywords.
+
+3. Which of the following is not a valid variable name in C language?
+ans:-   Start with a letter (uppercase or lowercase) or an underscore (_).
+	Be followed by letters, digits, or underscores.
+	Be case-sensitive.
+
+4. Can we make a variable with the name switch? (Yes or No)?
+ans:-   No, you cannot use "switch" as a variable name in C because "switch" is a reserved keyword in the C language.
+
+5. Keywords are defined in the compiler or their meaning is stored in the library?
+ans:-   Keywords in programming languages like C are typically defined in the compiler or language specification itself, not in libraries.
+
+6. Where variables are created? (RAM, ROM, Secondary Storage or CPU)?
+ans:-  Variables in a computer program are typically created and stored in RAM (Random Access Memory).
+
+7. Who developed C Language?
+ans:-  Dennis Ritchie at Bell Labs in the early 1970s.
+
+8. When was the C language developed?
+ans:-   The C programming language was developed in the early 1970s. It was created by Dennis Ritchie at Bell Labs, with the initial development work starting around 1972. C was officially 	documented in "The C Programming Language," often referred to as the "K&R C" (named after its authors, Brian Kernighan and Dennis Ritchie).
+
+9. What is the name of the operating system which is responsible for the inception of the C language?
+ans:-   The C programming language was developed at Bell Labs, which was part of the Multics project. Multics (Multiplexed Information and Computing Service) was an early time-sharing0 	operating system project. While the initial development of C was influenced by work on the Multics project, the language itself was not developed for Multics. In fact, Dennis 	Ritchie and Ken Thompson, who were key contributors to the development of C, decided to create a new, simpler programming language that would be more suitable for their needs.
+
+10. Whether C language is a high level or low level programming language?
+ans:-   C is considered a high-level programming language. It's not as low-level as assembly languages or machine code, which are closer to the hardware and involve direct manipulation of 	registers and memory addresses. Instead, C provides a higher level of abstraction, making it easier for programmers to write code that is more portable and readable than low-level 	languages.
